@@ -1,6 +1,7 @@
 # Book Library App
 
 A simple Python application for managing a book library using tkinter and SQLite.
+
 ![Book Library App](book library.png)
 
 
